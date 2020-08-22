@@ -1,8 +1,8 @@
 class Linenotify < Formula
   desc "LINE Notify CLI"
-  homepage "https://github.com/hirakida/linenotify"
-  url "https://github.com/hirakida/linenotify/archive/v0.1.0.tar.gz"
-  sha256 "26c2c0949cfead82232e82803274a06d8a4f85f59db2d0a4bd9cde4b00bbc829"
+  homepage "https://github.com/hirakida/linenotify-cli"
+  url "https://github.com/hirakida/linenotify-cli/archive/v0.1.0.tar.gz"
+  sha256 "4deb3da15ca9e54f2c18144706142fa793041d3bf7f54da2aea436b5871cf21c"
   license "MIT"
 
   depends_on "nim"

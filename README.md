@@ -2,9 +2,9 @@
 
 ```
  brew tap hirakida/tap
- brew install linenotify
+ brew install [ipapi|linenotify]
 ```
 or
 ```
- brew install hirakida/tap/linenotify
+ brew install hirakida/tap/xxxx
 ```
